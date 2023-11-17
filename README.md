@@ -1,6 +1,6 @@
-# T2MGPT_for_modelscope
+# HumanSD_for_modelscope
 ICCV 2023 文章 HumanSD: HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation的modelscope使用版。
-使用方法请访问魔搭 [https://modelscope.cn/models/zhongchongyang/T2MGPT_text-driven_motion_generation/summary](https://modelscope.cn/models/damo/Pose-driven-image-generation-HumanSD/summary)
+使用方法请访问魔搭 [https://modelscope.cn/models/damo/Pose-driven-image-generation-HumanSD/summary](https://modelscope.cn/models/damo/Pose-driven-image-generation-HumanSD/summary)
 
 
 If the project is helpful for your research, please consider citing :
