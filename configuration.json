@@ -1,0 +1,1 @@
+{"framework":"pytorch","task":"Pose-driven-image-generation","model":{"type":"HumanSD"},"pipeline":{"type":"HumanSD-pipeline"},"allow_remote":false}
