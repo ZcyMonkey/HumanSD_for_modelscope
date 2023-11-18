@@ -1,6 +1,5 @@
 # Copyright (c) Alibaba, Inc. and its affiliates.
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '7'
 import torch
 import numpy as np
 import cv2
